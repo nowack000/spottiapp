@@ -1,0 +1,37 @@
+{
+  "name": "spotti",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "~10.3.0",
+    "npm": "~6.1.0"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.2.0",
+    "@mapbox/point-geometry": "^0.1.0",
+    "bootstrap": "^4.1.1",
+    "classnames": "^2.2.6",
+    "express": "^4.16.3",
+    "firebase": "^5.4.2",
+    "geofire": "^4.1.2",
+    "geojson": "^0.5.0",
+    "json-loader": "^0.5.7",
+    "mapbox-gl": "^0.46.0",
+    "mapbox-gl-geocoder": "^2.0.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-event-listener": "^0.6.1",
+    "react-mapbox-gl": "^3.8.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-stepzilla": "^4.7.2",
+    "rsvp": "^4.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "postinstall": "react-scripts build"
+  }
+}
