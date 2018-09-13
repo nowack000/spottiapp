@@ -4,6 +4,7 @@
 ![alt SpottiApp1](http://nowm.nazwa.pl/spottiapp1.png)
 ![alt SpottiApp2](http://nowm.nazwa.pl/spottiapp2.png)
 ![alt SpottiApp3](http://nowm.nazwa.pl/spottiapp3.png)
+![alt SpottiApp4](http://nowm.nazwa.pl/spottiapp4.png)
 
 # Live Preview
 > Wejdź na https://spottiapp.herokuapp.com używając:
@@ -40,6 +41,8 @@ W aplikacji pracuję już nad:
 
 * 1.0.0
     * Wydane 13 września 2018
+    > dodano możliwość edytowania przez każdego użytkownika swoich danych w komponencie "Profil"
+    > poprawione zostało grupowanie poszczególnych danych w bazie danych Firebase (czytelniejsze szufladkowanie)
 * 0.1.0
     * Wydane 23 sierpnia 2018
 * 0.0.1
